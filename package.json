@@ -1,13 +1,16 @@
 {
-  "name": "simple_structure",
+  "name": "simple_structure_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "uma simples estrutura para uma api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "simple structure",
+    "api"
+  ],
+  "author": "Anderson dos Santos de barros",
   "license": "ISC",
   "dependencies": {
     "commander": "^5.1.0",
