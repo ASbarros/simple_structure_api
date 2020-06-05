@@ -7,7 +7,7 @@ program
     .description('clone a repository into a newly created directory')
     .action((source, destination) => {
         console.log('creating...');
-        shell.cp('-R', 'lib/structure', 'app');
+        shell.cp('-R', 'node_modules/simple_structure_api/lib/structure', 'app');
         console.log('instalando dependencias...')
         shell.exec('npm install express')
         shell.exec('npm install consign')

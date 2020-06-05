@@ -1,6 +1,6 @@
 {
   "name": "simple_structure_api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uma simples estrutura para uma api",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "dependencies": {
     "commander": "^5.1.0",
     "shelljs": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASbarros/simple_structure_api"
   }
 }
