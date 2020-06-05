@@ -19,5 +19,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ASbarros/simple_structure_api"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
